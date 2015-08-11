@@ -3,10 +3,43 @@ Colors to use:
 dark blue: #06365f
 light blue: #1c5380
 */
-
+h1 {
+  width: 30px; 
+  display: inline-block;
+}
 body {
   font: 200 16px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
   margin: 0;
  /* background-color: #0099FF;*/
  background: linear-gradient(to bottom, #0099FF 50%,#000000 50%,white 50%,white 100%);
+}
+
+footer {
+position: absolute;
+bottom: 0;
+width: 100%;
+line-height: 1.5em;
+text-align: center;
+background: white;
+
+}
+ 
+ .picbutton {
+   width: 30px; 
+  display: inline-block;
+ }
+
+ .picture {
+  width: 30%; 
+  display: inline-block;
+ }
+ button { background-color: white;}
+
+a {
+  text-decoration: none;
+}
+
+div {
+  width: 300px; 
+  display: inline-block;
 }
