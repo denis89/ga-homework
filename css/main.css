@@ -25,7 +25,8 @@ background: white;
 }
  
  .picbutton {
-   width: 30px; 
+   position: 100px;
+   width: 50px; 
   display: inline-block;
  }
 
