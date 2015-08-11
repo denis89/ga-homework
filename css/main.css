@@ -25,16 +25,16 @@ background: white;
 }
  
  .picbutton {
-   position: 100px;
-   width: 50px; 
-  display: inline-block;
+   
+  
  }
 
  .picture {
   width: 30%; 
   display: inline-block;
  }
- button { background-color: white;}
+ button { background-color: white;
+         }
 
 a {
   text-decoration: none;
