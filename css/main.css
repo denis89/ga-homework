@@ -18,7 +18,9 @@ bottom: 0;
 width: 100%;
 line-height: 1.5em;
 text-align: center;
-background: white;}
+background: white;
+font-family: sans-serif;
+font-weight: bold;}
  
  .text {background-color: white;}
 
